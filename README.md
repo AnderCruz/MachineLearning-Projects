@@ -1,2 +1,2 @@
-# gitHub-coursera
+# Coursera-Capstone
 Repository to Coursera
