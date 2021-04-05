@@ -1,2 +1,2 @@
-# Project EAD
+# Machine Learning Projects
 Project 2020
