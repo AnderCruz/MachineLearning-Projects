@@ -1,2 +1,2 @@
-# Coursera-Capstone
-Repository to Coursera
+# Project EAD
+Project 2020
